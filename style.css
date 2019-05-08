@@ -15,6 +15,14 @@
   
 }
 
+.school-info .title{
+  padding-bottom: 10px;
+}
+
+.school-info .time{
+  padding-bottom: 10px;
+}
+
 .school-info h2{
   color:#fff;
   text-align: center;
